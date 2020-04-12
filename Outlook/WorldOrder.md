@@ -1,4 +1,5 @@
-# 战争时期的金融市场规律   ——Ray Dalio, Bridgewater Associates.
+# 战争时期的金融市场规律   
+——Ray Dalio, Bridgewater Associates.
 
 **0. 前言**
 
