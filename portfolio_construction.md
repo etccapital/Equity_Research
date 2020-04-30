@@ -17,5 +17,10 @@ Note that in special cases, some chosen assets for optimization may not be utili
 
 **III. Backtest **
 
+To evaluate the portfolio constructed, backtesting needs to be carried out. We employed the backtesting tool available on the portfoliovisualizer, setup according to the following metrics. SPY was chosen as benchmark.
+
 ![BacktestSetup](https://github.com/etccapital/Market_Insight/blob/master/assets/Backtest%20Setup.PNG)
+
+After running the backtest, the following information is provided:
+
 ![AnalyticResults](https://github.com/etccapital/Market_Insight/blob/master/assets/Analytic.PNG)
