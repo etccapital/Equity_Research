@@ -16,3 +16,6 @@ Use optimization tool available on portfolio visualizer website: set specific me
 Note that in special cases, some chosen assets for optimization may not be utilized in the finalized portfolio. That is, the weight of such asset can be zero. 
 
 **III. Backtest **
+
+Main parameters could be seen on the visualizer.
+Setting Benchmark Ticker before running simulations. Analyse the output for the main picture. Then use Factor Analysis to do the second-step verification. Mainly focus on whether the alpha still remains after including more factors.
