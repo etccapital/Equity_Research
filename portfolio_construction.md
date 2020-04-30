@@ -29,7 +29,7 @@ Alternatively, Factor analysis can be used.
 
 
 
-Programs/Websites/Apps recommended for individual trades
+**Programs/Websites/Apps recommended for individual trades**
 
 Interactive Brokers https://www.interactivebrokers.ca/en/home.php
 
