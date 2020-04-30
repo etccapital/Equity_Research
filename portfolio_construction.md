@@ -43,4 +43,8 @@ Wealthsimple https://www.wealthsimple.com/en-ca/
 
 IC markets https://www.icmarkets.com/sc/en/
 
->对于A股的Portlio回测，可以使用以下教程，利用excel进行实操。量化系统可以考虑使用Tushare Library进行回测。https://www.youtube.com/watch?v=brv792lWQfg&t=520s
+**A股**
+
+对于A股的Portlio回测，可以使用以下教程，利用excel进行实操。需要注意的是，回测benchmark使用CSI300. https://www.youtube.com/watch?v=brv792lWQfg&t=520s
+
+量化系统可以考虑使用Tushare Library进行回测。
