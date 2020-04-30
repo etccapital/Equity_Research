@@ -28,3 +28,13 @@ After running the backtest, the following information is provided:
 Alternatively, Factor analysis can be used.
 
 
+
+Programs/Websites/Apps recommended for individual trades
+
+Interactive Brokers https://www.interactivebrokers.ca/en/home.php
+
+Questrade https://www.questrade.com/home
+
+Wealthsimple https://www.wealthsimple.com/en-ca/
+
+IC markets https://www.icmarkets.com/sc/en/
