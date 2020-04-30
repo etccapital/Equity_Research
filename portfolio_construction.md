@@ -15,7 +15,7 @@ As an example, our screened result gives the following five tickers: APD, AQN, C
 Use optimization tool available on portfolio visualizer website: set specific metrics such as sharpe. 
 Note that in special cases, some chosen assets for optimization may not be utilized in the finalized portfolio. That is, the weight of such asset can be zero. 
 
-**III. Backtest **
+**III. Backtest**
 
 To evaluate the portfolio constructed, backtesting needs to be carried out. We employed the backtesting tool available on the portfoliovisualizer, setup according to the following metrics. SPY was chosen as benchmark.
 
@@ -24,3 +24,7 @@ To evaluate the portfolio constructed, backtesting needs to be carried out. We e
 After running the backtest, the following information is provided:
 
 ![AnalyticResults](https://github.com/etccapital/Market_Insight/blob/master/assets/Analytic.PNG)
+
+Alternatively, Factor analysis can be used.
+
+
