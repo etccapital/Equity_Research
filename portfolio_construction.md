@@ -10,5 +10,9 @@ As an example, our screened result gives the following five tickers: APD, AQN, C
 
 **II. Portfolio Optimization**
 
+[PortfolioVisualizer]{https://github.com/etccapital/Market_Insight/blob/master/assets/Optimzation%20Tool.PNG}
+
 Use optimization tool available on portfolio visualizer website: set specific metrics such as sharpe. 
 Note that in special cases, some chosen assets for optimization may not be utilized in the finalized portfolio. That is, the weight of such asset can be zero. 
+
+**III. Backtest **
