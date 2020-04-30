@@ -25,7 +25,11 @@ After running the backtest, the following information is provided:
 
 ![AnalyticResults](https://github.com/etccapital/Market_Insight/blob/master/assets/Analytic.PNG)
 
-Alternatively, Factor analysis can be used.
+Alternatively, Factor analysis can be used. 
+
+"Main parameters could be seen on the visualizer.
+Setting Benchmark Ticker before running simulations. Analyse the output for the main picture. Then use Factor Analysis to do the second-step verification. Mainly focus on whether the alpha still remains after including more factors."
+
 
 
 
