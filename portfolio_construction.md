@@ -6,8 +6,9 @@
 
 Navigate to *Screener* Section on tradingviews webiste. Use key ratios (such as PE, EBITA, beta), techinical indicators and ratings to filter potential asset candidates. 
 
-**II. Strategic Asset Allocation**
+As an example, our screened result gives the following five tickers: APD, AQN, CBSH, SBU, INTC, KNX.
 
-**III. Portfolio Optimization**
+**II. Portfolio Optimization**
 
-Use optimization tool available on portfolio visualizer website: set specific metrics
+Use optimization tool available on portfolio visualizer website: set specific metrics such as sharpe. 
+Note that in special cases, some chosen assets for optimization may not be utilized in the finalized portfolio. That is, the weight of such asset can be zero. 
