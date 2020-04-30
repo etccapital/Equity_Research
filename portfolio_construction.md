@@ -16,3 +16,6 @@ Use optimization tool available on portfolio visualizer website: set specific me
 Note that in special cases, some chosen assets for optimization may not be utilized in the finalized portfolio. That is, the weight of such asset can be zero. 
 
 **III. Backtest **
+
+![BacktestSetup](https://github.com/etccapital/Market_Insight/blob/master/assets/Backtest%20Setup.PNG)
+![AnalyticResults](https://github.com/etccapital/Market_Insight/blob/master/assets/Analytic.PNG)
